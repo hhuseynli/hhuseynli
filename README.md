@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Huseyn
 
+I am currently exploring my passions.
 <!--
 **hhuseynli/hhuseynli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
