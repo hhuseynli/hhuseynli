@@ -1,10 +1,6 @@
 ## Hi there 👋 I'm Huseyn
 
-Skills
-• Frontend: HTML, CSS, JavaScript, Angular, React, JavaFX, MVC
-• Backend: Python, Django, Flask, Java, Java Spring
-• Competitive Programming: C/C++
-• Databases: SQL, MySQL, PostgreSQL
+## Will be updated soon...
 <!--
 **hhuseynli/hhuseynli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
