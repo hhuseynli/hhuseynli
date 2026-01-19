@@ -1,6 +1,8 @@
 ## Hi there 👋 I'm Huseyn
 
-## Will be updated soon...
+I'm currently working on my ML certification at Holberton School.
+I'm currently learning Data Cleaning, Manipulation and Visualization with Pandas, Polars, Matplotlib.pyplot & Seaborn.
+Projects coming up in a few weeks...
 <!--
 **hhuseynli/hhuseynli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
