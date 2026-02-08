@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Huseyn
-
-I'm currently working on my ML certification at Holberton School. I don't usually make my repos public (because they are usually software intended to be used by others), but I will be posting projects regularly, starting from an analysis of IDDA (Innovations & Digital Development) dataset. 
+Be on the look for new public repos.
 
 <!--
 **hhuseynli/hhuseynli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
